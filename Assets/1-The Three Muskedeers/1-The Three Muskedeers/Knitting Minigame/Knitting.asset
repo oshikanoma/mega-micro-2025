@@ -12,10 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10b6289b71b71e942a2499ed4eb71c02, type: 3}
   m_Name: Knitting
   m_EditorClassIdentifier: 
-  sceneName: 1-The Three Muskedeers
+  sceneName: 1-Scene
   minigameType: 0
-  gameTime: 10286
-  instruction: WASD pattenr
+  gameTime: 6857
+  instruction: Follow the pattern
   title: Knitting
-  creditsText: Jenna Barro, Jenny Nguyen, Tiffany Lam
+  creditsText: 'Jenny Nguyen - Art + visuals
+
+    Jenny Barro - Music
+
+    Tiffany
+    Lam - Programming'
   minigameScreenshot: {fileID: 0}
