@@ -16,11 +16,12 @@ MonoBehaviour:
   minigameType: 0
   gameTime: 6857
   instruction: Follow the pattern
-  title: Knitting
-  creditsText: 'Jenny Nguyen - Art + Visuals
+  title: Knit N' Stitch
+  creditsText: 'Jenny Nguyen - Artist
 
-    Jenny Barro - Music
+    Jenny Barro - Composer
 
-    Tiffany
-    Lam - Programming'
-  minigameScreenshot: {fileID: 0}
+    Tiffany Lam
+    - Programmer'
+  minigameScreenshot: {fileID: -2956331646651915939, guid: ca72e9289978d4923b3507bfb789f4cd,
+    type: 3}

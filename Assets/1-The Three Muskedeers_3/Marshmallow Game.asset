@@ -22,7 +22,8 @@ MonoBehaviour:
     Tiffany Lam - Artist
 
     Jenny Nguyen
-    - Musician
+    - Composer
 
 '
-  minigameScreenshot: {fileID: 0}
+  minigameScreenshot: {fileID: -3545604204396389491, guid: 5f0685030e55c4245982a545b05797a4,
+    type: 3}

@@ -1,13 +1,3 @@
-/*
-Components to have:
-- basic marshmallow (DONE)
-- easy: all the same
-- medium: 2 the same
-- hard: all different 
-- ticket UI system***
-*/
-
-
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;

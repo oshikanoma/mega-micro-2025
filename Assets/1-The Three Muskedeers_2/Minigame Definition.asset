@@ -16,11 +16,12 @@ MonoBehaviour:
   minigameType: 0
   gameTime: 10286
   instruction: Stamp the presents
-  title: Stamp
-  creditsText: 'Jenny Nguyen - Programming
+  title: Stamp N' Champ
+  creditsText: 'Jenny Nguyen - Programmer
 
-    Jenny Barro - Art + visuals
+    Jenny Barro - Artist
 
     Tiffany
-    Lam - Music'
-  minigameScreenshot: {fileID: 0}
+    Lam - Composer'
+  minigameScreenshot: {fileID: 2063665335677425145, guid: 7a64cd86848794b8794718bfd94a8eee,
+    type: 3}
