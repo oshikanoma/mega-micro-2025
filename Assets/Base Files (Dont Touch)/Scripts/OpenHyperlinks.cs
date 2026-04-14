@@ -39,6 +39,11 @@ public class OpenHyperlinks : MonoBehaviour, IPointerClickHandler {
     }
 
     public void OpenLink(string link) {
-        Application.OpenURL(link);
+        if (link != null && (link.StartsWith("https://") || link.StartsWith("http://"))) {
+            Application.OpenURL(link);
+        }
+        else {
+            Debug.LogWarning($"Blocked attempt to open URL with disallowed scheme: {link}");
+        }
     }
 }
